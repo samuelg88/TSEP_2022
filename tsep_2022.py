@@ -1,5 +1,5 @@
 import datetime
-import qgrid
+#import qgrid
 from ipywidgets import interact, widgets, Layout, interactive
 import matplotlib.pyplot as plt
 import numpy as np
